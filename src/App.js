@@ -1,9 +1,14 @@
-import "./styles.css";
+import MyComponent from "./MyComponent";
 
-export default function App() {
+function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <MyComponent
+        greeting="Hey there!"
+        message="Welcome to the world of React."
+      />
     </div>
   );
 }
+
+export default App;
