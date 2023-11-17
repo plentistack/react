@@ -1,7 +1,7 @@
 {
-  "name": "react",
+  "name": "01-react-first-component",
   "version": "1.0.0",
-  "description": "React example starter project",
+  "description": "Your first React Components and JSX: A Beginner's Guide",
   "keywords": [
     "react",
     "starter"
