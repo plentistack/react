@@ -1,10 +1,11 @@
 {
-  "name": "01-react-first-component",
+  "name": "02-react-state-and-props",
   "version": "1.0.0",
-  "description": "Your first React Components and JSX: A Beginner's Guide",
+  "description": "Understanding the difference between State and Props in React",
   "keywords": [
     "react",
-    "starter"
+    "css",
+    "javascript"
   ],
   "main": "src/index.js",
   "dependencies": {
